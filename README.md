@@ -54,4 +54,4 @@ It's also possible to use the app without an internet connection after you open 
 ## Feedback
 Submit bug reports or request for features at: [https://cigarettesprettysmokes.pages.dev/feedback/](https://cigarettesprettysmokes.pages.dev/feedback/)
 
-© 2026 Riham S. README content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+© 2026 Riham S. README content licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Last updated: 17.08.26
