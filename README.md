@@ -1,4 +1,4 @@
-# Password Generator (Riham Blogs)
+# Riham Blogs' Password Generator
 
 Generate secure passwords in bulk with simple to advanced customisation. No Sign-Up required. Privacy-focused.
 
