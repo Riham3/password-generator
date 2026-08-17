@@ -31,7 +31,7 @@ Use a custom separator, choose to capitalise the first letter of each word, and/
 ### Pattern
 Generate a password based on a custom pattern using the tokens listed (e.g. "[A][a][0][*]" can generate a password like "Gx9!").
 
-Use backslash (\) before square or curly brackets to escape them as literal characters (e.g. "[0]\{Ab\}" can generate a password like "2{Ab}").
+Use backslash (\\) before square or curly brackets to escape them as literal characters (e.g. "[0]\\{Ab\\}" can generate a password like "2{Ab}").
 
 It uses the same set of words that are used by the "Memorable" mode for its word-based tokens (e.g. "{Ab}"), whether using the default list or your own custom words.
 
